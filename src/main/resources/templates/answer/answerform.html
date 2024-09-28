@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>question 상세보기</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .no-answer {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container mt-5">
+  <h2 class="text-center mb-4">question 상세보기</h2>
+
+  <div class="card">
+    <div class="card-header">
+      <!-- question 제목 표시 -->
+      <h4 th:text="${question.title}">제목</h4>
+    </div>
+    <div class="card-body">
+      <!-- question ID 및 작성자 정보 -->
+      <p><strong>question ID:</strong> <span th:text="${question.questionId}">question ID</span></p>
+      <p><strong>작성자:</strong> <span th:text="${question.author}">작성자</span></p>
+      <p><strong>작성일시:</strong> <span th:text="${question.curDateTime}">작성일시</span></p>
+      <p><strong>분류:</strong> <span th:text="${question.category}">카테고리</span></p>
+
+      <!-- 본문 내용 표시 -->
+      <hr>
+      <div style="min-height: 200px;">
+        <h5>문의 내용</h5>
+        <p th:text="${question.content}">내용</p>
+      </div>
+      <hr>
+
+      <!-- 답변 여부 -->
+      <p><strong>답변 상태:</strong> <span th:if="${question.answer != null}" th:text="'답변 완료'"></span>
+        <span th:if="${question.answer == null}" th:text="'답변 안됨'" class="no-answer"></span>
+      </p>
+
+      <!-- 첨부파일 리스트 표시 -->
+      <div th:if="${question.fileList != null && !question.fileList.isEmpty()}">
+        <hr>
+        <h5>첨부파일</h5>
+        <ul>
+          <li th:each="file : ${question.fileList}">
+            <a th:href="@{${file}}">
+              <img th:src="@{${file}}" alt="첨부 이미지" style="max-width: 200px; max-height: 200px;">
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div th:if="${question.answer == null}">
+    <hr>
+    <h5>답글 달기</h5>
+    <form th:action="@{/admin/answer/{questionId}(questionId=${question.questionId})}" method="post">
+      <div class="form-group">
+        <textarea class="form-control" name="comment" rows="5" placeholder="답글을 입력하세요"></textarea>
+      </div>
+      <button type="submit" class="btn btn-success mt-3">답글 달기</button>
+    </form>
+  </div>
+
+  <!-- 메인 페이지로 돌아가는 버튼 -->
+  <div class="text-center mt-4" style="margin-bottom: 100px;">
+    <a href="/cs/admin" class="btn btn-primary">메인 페이지로 돌아가기</a>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

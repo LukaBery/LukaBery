@@ -19,3 +19,15 @@
   1,신건영,A,ko
   2,김건우,B,en
 * [ ] 메신저 알림 보내는 기능을 FeignClient을 이용해서 구현해보세요.
+
+* [ ] --- day2
+
+* [ ] 멤버 / 프로젝트 / 프로젝트 멤버를 레디스에 저장하세요.
+  * [ ] 프로젝트는 타입을 구분해서 저장하세요.
+* [ ] 시스템에 인증 가능한 사용자를 만드세요. (2명) 
+  * role: admin,member
+* [ ] admin은 항상 member에 권한을 갖을수 있게 만드세요.
+* [ ] GET /public-projects API
+  * [ ] 멤버 / 어드민 허용
+* [ ] GET /private-projects API
+  * [ ] 어드민만 허용

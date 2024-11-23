@@ -1,5 +1,10 @@
-### Hi there 👋
+### 백엔드 개발자로 취업을 꿈꾸는 Luha입니다.
 
+💻 Skills & tools 💻
+>Main
+     
+>Sub
+  
 <!--
 **LukaBery/LukaBery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

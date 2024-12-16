@@ -2,7 +2,10 @@
 
 💻 Skills & tools 💻
 >Main
-     
+     - **Languages**: Python, JavaScript, C++
+- **Frameworks**: React, Django, Flask
+- **Tools**: Git, Docker, VS Code
+
 >Sub
   
 <!--

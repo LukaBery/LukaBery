@@ -49,16 +49,22 @@
 </div>
 <Br>
 
-
 <div align="center">
-  <a href="https://github.com/LukaBery/LukaBery#readme">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LukaBery&show_icons=true&theme=dracula" height="170px" />
-  </a>
-  <a href="https://github.com/LukaBery/LukaBery#readme">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LukaBery&hide=css&exclude_repo=elice_second_project,elice-bucks&layout=compact" height="170px">
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/LukaBery/LukaBery#readme">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=LukaBery&show_icons=true&theme=dracula" height="170px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/LukaBery/LukaBery#readme">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LukaBery&hide=css&exclude_repo=elice_second_project,elice-bucks&layout=compact" height="170px" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
-
 <!--
 **LukaBery/LukaBery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

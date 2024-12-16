@@ -1,13 +1,23 @@
 ### 백엔드 개발자로 취업을 꿈꾸는 Luha입니다.
 
 💻 Skills & tools 💻
->Main
-     - **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Django, Flask
-- **Tools**: Git, Docker, VS Code
+<div>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/Mybatis-E6CBA8?style=flat">
+<!--   <img src="https://img.shields.io/badge/JPA-0008C1?style=flat&logoColor=white"> -->
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 
+</div>
 >Sub
-  
+  <div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+
+</div>
 <!--
 **LukaBery/LukaBery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

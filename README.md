@@ -1,5 +1,7 @@
 ### 백엔드 개발자로 취업을 꿈꾸는 Luha입니다.
 
+---
+
 💻 Skills & tools 💻
 <div>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
@@ -18,6 +20,23 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 
 </div>
+
+
+##### >Tools
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-2146C7?style=flat&logo=IntelliJ IDEA&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2146C7?style=flat&logo=Eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon EC2-FE7A16.svg?style=flat&logo=Amazon EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon S3-FE7A16.svg?style=flat&logo=Amazon S3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-%23Clojure?style=flat&logo=postman&logoColor=white">
+</div>
+<Br>
+
+
+
 <!--
 **LukaBery/LukaBery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -24,6 +24,9 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/JSP-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white">
+ 
 
 </div>
 
@@ -41,6 +44,8 @@
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=SonarQube&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white">
   <img src="https://img.shields.io/badge/ERDCloud-4E9BCD?style=flat&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=flat&logo=GitHub&logoColor=white">
 </div>
 <Br>
 

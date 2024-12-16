@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
 
 </div>
 
@@ -34,6 +38,9 @@
   <img src="https://img.shields.io/badge/Amazon S3-FE7A16.svg?style=flat&logo=Amazon S3&logoColor=white">
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-%23Clojure?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=SonarQube&logoColor=white">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white">
+  <img src="https://img.shields.io/badge/ERDCloud-4E9BCD?style=flat&logoColor=white">
 </div>
 <Br>
 
